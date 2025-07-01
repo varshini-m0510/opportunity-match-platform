@@ -60,11 +60,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/defe851f-4645-4efc-bbee-d2d95f8fca0b) and click on Share -> Publish.
-
-
 # Opportunity Match Platform
 
 A full-stack job application platform for recruiters and applicants, built with React, Node.js, Express, and MongoDB.
